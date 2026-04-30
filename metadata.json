@@ -1,0 +1,6 @@
+{
+  "name": "snakeGame",
+  "description": "A high-octane Snake game integrated with a neon-lit music player for a synchronized gaming and listening experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
